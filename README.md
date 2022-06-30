@@ -1,6 +1,6 @@
 # myprojects
 _(^^)_
-Some micro projects that i made in Data Science studies. Projects about Algorithms, Foundations of IT an Mathematics
+Some micro projects that i made in Data Science studies. Projects about Algorithms, Foundations of IT and Mathematics
 
 :coffee: :pizza: 📸 :atom: 🇧🇷 💻 :dancer:
 
